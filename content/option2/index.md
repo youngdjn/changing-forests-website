@@ -12,10 +12,10 @@ comments: false  # Show comments?
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: "test caption"
-  image: "eiler3.JPG"
+  image: "eiler1.JPG"
 ---
 
-{{< figure library="true" src="eiler3.JPG" title="A caption" lightbox="true" >}}
+{{< figure library="true" src="eiler1.JPG" title="A caption" lightbox="true" >}}
 
 Duis posuere eu leo eu ultricies. Morbi luctus sem ante, id tempus risus convallis vitae. Pellentesque molestie posuere risus in laoreet. Proin hendrerit pretium lacus, in pharetra odio vulputate sit amet. Proin eleifend urna tellus. Nam ultrices sagittis mauris, et scelerisque dolor maximus vel. Mauris ac neque ac risus mollis gravida quis sit amet nisl. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum scelerisque turpis sit amet vestibulum fermentum. Maecenas at neque quis nisl maximus dapibus. Integer commodo blandit lobortis.
 
