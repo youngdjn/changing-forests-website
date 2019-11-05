@@ -1,0 +1,11 @@
+# Font style metadata
+name = "my_font_set"
+
+# Optional Google font URL
+google_fonts = "Noto+Sans|Roboto|Roboto+Mono"
+
+# Font families
+heading_font = "Noto Sans"
+body_font = "Roboto"
+nav_font = "Noto Sans"
+mono_font = "Roboto Mono"
