@@ -50,7 +50,9 @@ subtitle = "Following high-severity wildfire"
  css_class = ""
 +++
 
+{{< figure library="true" src="seedlings.JPG" lightbox="true" >}}
+
 When replanting trees after high-severity wildfire, managers need to decide what trees to plant and where to plant them. These decisions can be difficult given anticipated climate change and limited resources. I am working on several projects to guide reforestation efforts:
 
 * Identification of the topoclimatic conditions associated with poor natural regeneration but high success of planted trees. This project involves development of an empirically-trained geospatial management tool for prioritizing reforestation efforts across a given landscape.
-* Empirical tests of the concept of assisted gene flow. This project involves observing the performance of seedlings planted 1,000 to 3,000 feet in elevation above their origins in anticipation of drought and warming.
+* Empirical tests of assisted gene flow, or planting seedlings from warm- and dry-adapted populations into cooler sites in anticipation of drought and warming. This project involves observing the performance of seedlings planted 1,000 to 3,000 feet in elevation above their origins.

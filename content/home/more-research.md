@@ -6,10 +6,10 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 29  # Order that this section will appear.
+weight = 32  # Order that this section will appear.
 
-title = "Seed dispersal modeling"
-subtitle = "Following high-severity wildfire"
+title = "More..."
+#subtitle = "Following high-severity wildfire"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -49,6 +49,11 @@ subtitle = "Following high-severity wildfire"
  # CSS class.
  css_class = ""
 +++
-{{< figure library="true" src="dispersal.PNG" title="Hypothetical conifer seed rain density (shading) for a given spatial arrangement of surviving reproductive trees following wildfire (points)." lightbox="true" >}}
 
-I am building a non-linear spatially-explicit Bayesian model for predicting seed rain (and, subsequently, regeneration) of conifers following high-severity wildfire given a known spatial arrangement of surviving reproductive trees. Data on surviving tree spatial arrangement will be [derived from drone imagery](#drones_ai). To otbain dispersal data to train the model, I am coordinating intensive field surveys that involve documenting the density of regenerating conifers in a dense grid of plots across several recent severely burned areas.
+<!--- {{< figure library="true" src="aet.PNG" lightbox="true" >}} --->
+
+Other current research projects include:
+
+* Identifying drivers of California tree species range limits and inferring sensitivity to climate change
+  * Includes analysis of ~800 tree cores that I collected and processed
+* Evaluating the suitability of modeled topoclimatic water balance variables as drought metrics for landscape ecology applications

@@ -50,4 +50,15 @@ title = "Forest mortality and recovery"
  css_class = ""
 +++
 
-Text for forest mortality and recovery.
+{{< figure library="true" src="mortality.jpg" lightbox="true" >}}
+
+The extreme California drought of 2012-2015 triggered extensive tree mortality across large areas of the state. I am analyzing large geospatial and plot-based datasets to understand:
+
+* What biophysical factors explain spatial variation in mortality patterns? Can these relationships be used to predict future mortality?
+* How can management such as forest thinning reduce furture mortality risk?
+
+Recent results:
+
+* [Dense stands in arid sites are most susceptible to drought] (https://onlinelibrary.wiley.com/doi/full/10.1111/ele.12711)
+* [Forest thinning reduces future mortlity risk, especially in pines] (https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/eap.1902)
+* [Most areas that experienced extreme mortality related to the California drought show strong natural regeneration] (https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/eap.2002)
