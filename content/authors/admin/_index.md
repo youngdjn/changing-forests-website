@@ -73,7 +73,7 @@ email: ""
 # - Visitors
 ---
 
-I'm Derek Young, a postdoctoral **forest disturbance ecologist** and **data scientist** in the Department of Plant Sciences at UC Davis.
+I'm Derek Young, a postdoctoral **forest disturbance ecologist** and **geospatial data scientist** in the Department of Plant Sciences at UC Davis.
 
 I collect and analyze data to inform forest management in an era of climate change, drought, and large high-severity wildfires. I rely  as much on **large geosptial datasets** as on **field-based measurements** of forests. I work closely with forest managers in an effort to tailor my research to pressing forest management needs.
 
