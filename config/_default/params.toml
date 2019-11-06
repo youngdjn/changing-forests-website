@@ -155,7 +155,7 @@ menu_align_right = false
 reading_time = false
 
 # Display next/previous section pager? (true/false)
-section_pager = true
+section_pager = false
 docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)
@@ -242,7 +242,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 1
+  engine = 0
   api_key = "AIzaSyBJle3B4EPQ-v2xW71g0ISvKk1j-HQ_7mc"
   zoom = 17
 

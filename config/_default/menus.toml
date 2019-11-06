@@ -12,11 +12,13 @@
   name = "Research"
   url = "#projects"
   weight = 30
+  #identifier = "Research" to nest things under it
 
 [[main]]
   name = "Publications"
   url = "#publications"
   weight = 40
+  #parent = "Research" to nest this under research
 
 [[main]]
   name = "Contact"
