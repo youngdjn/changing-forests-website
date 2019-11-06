@@ -29,12 +29,12 @@ Because each tree is visible from multiple angles, it is possible to use methodo
 
 The primary photogrammetry software we use is [Metashape](https://www.agisoft.com/). Photogrammetry is very computationally-intensive, especially when processing large projects consisting of thousands of high-resoluation photos. Processing a single 100-ha area can take over a day on a standard PC. I am collaborating with several researchers at UC Davis to develop a Python library to allow for efficiently running multiple photogrammetry projects in parallel on a high-performance computing cluster at UC Davis.
 
-View our [<i class="fab fa-github"></i> Github repository](https://github.com/ucdavis/metashape).
+View our [<i class="fab fa-github"></i>&nbsp;Github repository](https://github.com/ucdavis/metashape).
 
 
 ### 2. Tree detection and identification
 
-*Largely inspired by the wokflow developed by [<i class="fab fa-github"></i> Michael Koontz](https://github.com/mikoontz/local-structure-wpb-severity).*
+*Largely inspired by the wokflow developed by [<i class="fab fa-github"></i>&nbsp;Michael Koontz](https://github.com/mikoontz/local-structure-wpb-severity).*
 
 After producing a 3D point cloud from drone images, we run an algorithm to detect individual tree canopies based on their shapes. First, we compute a digital surface model from the point cloud data. This process simply involves identifying the highest-elevation point in each grid cell across a grid of a given resolution. I use the [lidR](https://cran.r-project.org/web/packages/lidR/index.html) package in R for this purpose.
 
