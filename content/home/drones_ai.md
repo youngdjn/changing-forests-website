@@ -57,4 +57,4 @@ I am developing an automated workflow to map forest trees over large (> 100 ha) 
 * Segmentation of individual trees from structure models
 * Identification of trees to species using convolutional neural networks for computer vision
 
-[More details > ]{{< ref "drones-ai/index.md" >}}
+[More details ... ]{{< ref "drones-ai/index.md" >}}
