@@ -50,6 +50,6 @@ The final step is to identify individual trees to species. I am developing a wor
 
 My primary collaborator on this project is [Andrew Latimer](https://www.plantsciences.ucdavis.edu/people/andrew-latimer).
 
-This project is generously supported by:
+This project is supported by:
 
 {{< figure library="true" src="cal_fire_logo_small.png" lightbox="true" >}}{{< figure library="true" src="cci_logo_small.png" lightbox="true" >}}
