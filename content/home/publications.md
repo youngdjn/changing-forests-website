@@ -50,6 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-Find my publications on [<i class="ai ai-google-scholar big-icon"></i>](https://scholar.google.com/citations?user=55Em8kAAAAAJ) [Google Scholar](https://scholar.google.com/citations?user=55Em8kAAAAAJ).
+Find my publications on [<i class="ai ai-google-scholar big-icon"></i>](https://scholar.google.com/citations?user=55Em8kAAAAAJ) [Google Scholar](https://scholar.google.com/citations?user=FlW2D0QAAAAJ).
 
 Google Scholar links to free PDFs for most of my publications, but if you need a PDF, [contact me](#contact) and I'll happily send one!

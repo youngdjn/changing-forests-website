@@ -53,7 +53,7 @@ social:
 #   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=55Em8kAAAAAJ
+  link: https://scholar.google.com/citations?user=FlW2D0QAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/youngdjn
