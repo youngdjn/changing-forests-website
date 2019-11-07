@@ -49,7 +49,7 @@ subtitle = "For mapping forest trees"
  # CSS class.
  css_class = ""
 +++
-<script src="https://static.kuula.io/embed.js" data-kuula="https://kuula.co/share/7qD7n?fs=1&vr=0&sd=1&thumbs=1&alpha=0.60&hideinst=1&chromeless=0&logo=0" data-width="100%" data-height="259px"></script>
+<script src="https://static.kuula.io/embed.js" data-kuula="https://kuula.co/share/7qD7n?fs=1&vr=0&sd=1&thumbs=1&chromeless=0&logo=0" data-width="100%" data-height="260px"></script>
 
 I am developing an automated workflow to map forest trees over large (> 100 ha) areas using drone imagery. The workflow incorporates:
 
