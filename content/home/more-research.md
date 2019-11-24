@@ -55,5 +55,5 @@ title = "More..."
 Other current research projects include:
 
 * Identifying drivers of California tree species range limits and inferring sensitivity to climate change
-  * Includes analysis of ~800 tree cores that I collected and processed
+  * Includes analysis of ~800 tree cores that we collected and processed
 * Evaluating the suitability of modeled topoclimatic water balance variables as drought metrics for landscape ecology applications
