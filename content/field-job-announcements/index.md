@@ -17,4 +17,6 @@ comments: false  # Show comments?
 
 The Latimer Lab at UC Davis (Department of Plant Sciences) is recruiting for the following positions:
 
-{{% staticref "files/UC Davis Drone Pilot position announcement.pdf" "newtab" %}}Field crew leader (1 position){{% /staticref %}}
+{{% staticref "files/crew leader.pdf" "newtab" %}}Field crew leader{{% /staticref %}}
+
+{{% staticref "files/drone pilot.pdf" "newtab" %}}Drone pilot{{% /staticref %}}
