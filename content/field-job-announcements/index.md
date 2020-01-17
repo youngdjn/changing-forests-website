@@ -15,7 +15,7 @@ comments: false  # Show comments?
 #   image: "tahoe.jpg"
 ---
 
-The Latimer Lab at UC Davis (Department of Plant Sciences) is recruiting for the following positions:
+The [Latimer Lab](https://latimer.ucdavis.edu/) at UC Davis is recruiting for the following positions:
 
 {{% staticref "files/crew leader.pdf" "newtab" %}}Field crew leader{{% /staticref %}}
 
