@@ -18,3 +18,4 @@ comments: false  # Show comments?
 The [Latimer Lab](https://latimer.ucdavis.edu/) at UC Davis is recruiting for the following positions:
 
 - {{% staticref "files/UC Davis Forest Ecology Field Crew Leader.pdf" "newtab" %}}Forest Ecology Field Crew Leader{{% /staticref %}}
+- {{% staticref "files/UC Davis Drone Pilot position announcement.pdf" "newtab" %}}Forest Ecology Drone Pilot{{% /staticref %}}
