@@ -90,7 +90,7 @@ phone = "+1 530-430-7715"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Department of Plant Sciences", city = "University of California, Davis", region = "CA", postcode = "95817", country = "United States", country_code = "US"}
+address = {street = "Department of Plant Sciences", city = "University of California, Davis", region = "CA", postcode = "95616", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
