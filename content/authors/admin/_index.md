@@ -73,7 +73,7 @@ email: ""
 # - Visitors
 ---
 
-I'm Derek Young, a Research Ecologist in the Department of Plant Sciences at UC Davis working at the intersection of **forest disturbance ecology** and **data science**.
+I'm Derek Young, a Research Ecologist in the Department of Plant Sciences at UC Davis working at the intersection of **forest disturbance ecology** and **data science**. I also work part-time as a forest data scientist at [Vibrant Planet](https://www.vibrantplanet.net/).
 
 I collect and analyze data to inform forest management in an era of climate change, drought, and large high-severity wildfires. I rely as much on **large geospatial datasets** as on **field-based measurements** of forests. I work closely with forest managers in an effort to tailor my research to pressing forest management needs.
 
